@@ -1,0 +1,68 @@
+### Day3
+
+- **prevailing**
+    - 우세한, 널리 퍼져 있는
+- **ambition**
+    - 야망 포부
+-  **catastrophe**
+    - 참사, 재앙
+- **concept**
+    - 개념, 구상, 발상
+- **reproduction**
+    - 생식 번식 복제
+- **in favour of**
+    - ~에 찬성하여, ~을 위하여
+- **machine**
+    - 기계, 기구
+- **incident**
+    - 일 사건
+- **straightaway**
+    - 즉시, 곧은 솔직한
+- **trait**
+    - 특성, 특색
+- **exterior**
+    - 외부
+    - 외부의
+- **scheme**
+    - (운영)계획, 책략
+- **instrumental**
+    - 중요한, 악기에 의한
+- **referee**
+    - 심판, 중재인
+- **personal**
+    - 개인적인, 개인의
+- **constant**
+    - 끊임없는, 일정한
+- **instinctive**
+    - 본능적인, 직관적인
+- **career**
+    - 직업, 경력
+- **departure**
+    - 출발, 떠남, 벗어남
+- **arrival**
+    - 도착, 도입, 도래
+- **thrill**
+    - 흥분 설렘
+    - 열광시키다
+- **initial**
+    - 처음의, 초기의
+- **rewarding**
+    - 보람 있는, 돈을 많이 버는
+- **commercial**
+    - 광고
+    - 상업적인
+- **extra**
+    - 추가되는 것
+    - 추가의
+- **naive**
+    - 순진한
+    - 경험이 없는
+- **information**
+    - 정보, 지식, 견문
+- **cultivate**
+    - 경작하다, 함양하다
+- **immobile**
+    - 움직이지 않는, 고정된
+- **stall**
+    - 가판대
+    - 멎다, 지연되다
